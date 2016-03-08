@@ -1,3 +1,5 @@
 * [WalkingMap.html](WalkingMap.html)
+* [california.html](california.html)
+* [canada.html](canada.html)
 * [file1.html](file1.html)
 * [master-list.html](master-list.html)
