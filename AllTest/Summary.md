@@ -1,5 +1,6 @@
 * [BootstrapThemes.html](BootstrapThemes.html)
 * [WalkingMap.html](WalkingMap.html)
+* [WalkingMapAvodayev.html](WalkingMapAvodayev.html)
 * [california.html](california.html)
 * [canada.html](canada.html)
 * [file1.html](file1.html)
