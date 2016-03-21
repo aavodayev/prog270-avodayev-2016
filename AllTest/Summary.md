@@ -2,6 +2,8 @@
 * [WalkingMap.html](WalkingMap.html)
 * [WalkingMapAvodayev.html](WalkingMapAvodayev.html)
 * [all-test.html](all-test.html)
+* [baseball.html](baseball.html)
+* [basketball.html](basketball.html)
 * [california.html](california.html)
 * [canada.html](canada.html)
 * [file1.html](file1.html)

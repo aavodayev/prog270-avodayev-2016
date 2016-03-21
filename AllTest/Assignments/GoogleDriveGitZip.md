@@ -2,18 +2,18 @@
 
 ## Deflating
 
-![Deflating](/images/deflating.jpg)
+![Deflating](/images/deflating.PNG)
 
   ### Deflating 25%
 
-  <img class= "twenty-five-percent" src="/images/deflating.jpg" alt ="Deflated file">
+  <img class= "twenty-five-percent" src="/images/deflating.PNG" alt ="Deflated file">
 
 
 
 ## Inflating
 
-![Inflating](/images/inflating.jpg)
+![Inflating](/images/inflating.PNG)
 
-  ### Deflating 25%
+ ### Deflating 25%
 
-<img class= "twenty-five-percent" src="/images/inflating.jpg" alt ="Inflated file">
+<img class= "twenty-five-percent" src="/images/inflating.PNG" alt ="Inflated file">
