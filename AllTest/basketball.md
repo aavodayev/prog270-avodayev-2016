@@ -1,6 +1,6 @@
 # BASKETBALL
 
-Basketball is a sport played by two teams of five players on a rectangular
+<p> Basketball is a sport played by two teams of five players on a rectangular
 court. The objective is to shoot a ball through a hoop 18 inches (46 cm) in
 diameter and 10 feet (3.048 m) high mounted to a backboard at each end.
 
@@ -16,6 +16,16 @@ running (dribbling). It is a violation to lift, or drag, one's pivot foot
 without dribbling the ball, to carry it, or to hold the ball with both hands
 then resume dribbling.
 
+<br>
+
+
+
+<img class= "twenty-five-percent" src="/images/bball.png" alt ="Basketball">
+
+
+<br>
+
+
 There are many techniques for ball handling—shooting, passing, dribbling, and
 rebounding. Basketball teams generally have player positions, the tallest and
 strongest members of a team are called a center or power forward, while slightly
@@ -23,7 +33,47 @@ shorter and more agile players are called small forward, and the shortest
 players or those who possess the best ball handling skills are called a point
 guard or shooting guard. The point guard directs the on court action of the
 team, implementing the coach's game plan, and managing the execution of
-offensive and defensive plays (player positioning).
+offensive and defensive plays (player positioning). </p>
+
+<br>
+<br>
+<br>
+
+![Pickup Game](/images/bball2.jpg)
+
+<brk>
 
 
-![Basketball](/images/basketball.jpg)
+## Professional Leagues-Top 5
+
+* **NBA (National Basketball Association)**
+* **NCAAM (National Collegiate Athletic Association-Mens Basketball)**
+* **BSL (Turkish Basketball League)**
+* **CBA (Chinese Basketball Association )**
+* **Liga Endesa (ASB) (Spain)**
+
+## Major events
+
+* _NBA Finals_ **(NBA-USA/Canada)**
+*  _March Madness_ **(NCAAM-USA)**
+* _Super League Championship_ **(BSL-Turkey)**
+* _CBA Finals_ **(CBA-China)**
+* _FIBA World Cup_ **(International Basketball Federation)**
+
+
+## Links to Other Sport Pages
+
+* [Football page](football.html)
+* [Baseball Page](baseball.html)
+* [Soccer Page](soccer.html)
+* [Hockey Page](hockey.html)
+* [Non-Team Sports Page](non-team-sports.html)
+
+
+## Link to Introduction (My Theme)
+
+* [Introduction](My-Theme.html)
+
+## Link to Index
+
+* [Index Page](index.html)
