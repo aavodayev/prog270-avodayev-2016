@@ -41,5 +41,12 @@
 ## Harpy Eagle Explanation
 [![/images/california/2015-12-19_13.58.24-small.jpg](/images/california/2015-12-19_13.58.24-small.jpg)](/images/california/2015-12-19_13.58.24.jpg)
 
-# HIPPO FIGHT!
+## HIPPO FIGHT!
 [![/images/california/2015-12-19_14.38.35-small.jpg](/images/california/2015-12-19_14.38.35-small.jpg)](/images/california/2015-12-19_14.38.35.jpg)
+
+
+## <p class="text-danger"> Links To Other Pages</p>
+
+* [Canada Pictures](canada.html)
+* [Ship Picture](file1.html)
+* [GoogleDriveGitZip](GoogleDriveGitZip.html)

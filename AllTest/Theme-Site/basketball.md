@@ -1,3 +1,19 @@
+<br>
+
+<div class = "padded">
+
+
+<button type="button" class="btn btn-xs btn-danger">[Baseball Page](baseball.html)</button>
+<button type="button" class="btn btn-xs btn-danger">[Football Page](football.html)</button>
+<button type="button" class="btn btn-xs btn-danger">[Soccer Page](soccer.html)</button>
+<button type="button" class="btn btn-xs btn-danger">[Hockey Page](hockey.html)</button>
+<button type="button" class="btn btn-xs btn-danger">[Non-Team Page](non-team-sports.html)</button>
+
+<br>
+
+</div>
+
+
 # BASKETBALL
 
 <p> Basketball is a sport played by two teams of five players on a rectangular

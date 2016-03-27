@@ -1,3 +1,18 @@
+<br>
+
+<div class = "padded">
+
+<button type="button" class="btn btn-xs btn-danger">[Basketball Page](basketball.html) </button>
+<button type="button" class="btn btn-xs btn-danger">[Football Page](football.html)</button>
+<button type="button" class="btn btn-xs btn-danger">[Soccer Page](soccer.html)</button>
+<button type="button" class="btn btn-xs btn-danger">[Hockey Page](hockey.html)</button>
+<button type="button" class="btn btn-xs btn-danger">[Non-Team Page](non-team-sports.html)</button>
+
+<br>
+
+</div>
+
+
 # **BASEBALL**
 
 Baseball is a bat-and-ball game played between two teams of nine players each

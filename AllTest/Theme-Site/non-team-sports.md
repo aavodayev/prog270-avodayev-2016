@@ -1,3 +1,18 @@
+<br>
+
+<div class = "padded">
+
+<button type="button" class="btn btn-xs btn-danger">[Basketball Page](basketball.html) </button>
+<button type="button" class="btn btn-xs btn-danger">[Baseball Page](baseball.html)</button>
+<button type="button" class="btn btn-xs btn-danger">[Football Page](football.html)</button>
+<button type="button" class="btn btn-xs btn-danger">[Soccer Page](soccer.html)</button>
+<button type="button" class="btn btn-xs btn-danger">[Hockey Page](hockey.html)</button>
+
+<br>
+
+</div>
+
+
 # Non-Team Sports
 
 # _Tennis_

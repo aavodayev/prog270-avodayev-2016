@@ -30,9 +30,10 @@
 [![/images/canada/2016-02-27_16.06.30-small.jpg](/images/canada/2016-02-27_16.06.30-small.jpg)](/images/canada/2016-02-27_16.06.30.jpg)
 
 
+<br>
 
+## <p class="text-danger"> Links To Other Pages</p>
 
-
-
-
-
+* [California Pictures](california.html)
+* [Ship Picture](file1.html)
+* [GoogleDriveGitZip](GoogleDriveGitZip.html)

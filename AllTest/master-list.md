@@ -1,3 +1,6 @@
 * [Summary.html](Summary.html)
-* [MoreFiles/Summary.html](MoreFiles/Summary.html)
-* [Assignments/Summary.html](Assignments/Summary.html)
+* [Theme-Site/Summary.html](Theme-Site/Summary.html)
+* [Pictures/Summary.html](Pictures/Summary.html)
+* [Markdown-Examples/Summary.html](Markdown-Examples/Summary.html)
+* [Mapping-Database/Summary.html](Mapping-Database/Summary.html)
+* [Bootstrap-Examples/Summary.html](Bootstrap-Examples/Summary.html)
